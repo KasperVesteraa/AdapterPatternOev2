@@ -1,0 +1,9 @@
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/bin/Debug/AdapterPatternOev2.exe
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/bin/Debug/AdapterPatternOev2.pdb
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/bin/Debug/Newtonsoft.Json.dll
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/bin/Debug/Newtonsoft.Json.xml
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/obj/Debug/AdapterPatternOev2.csproj.AssemblyReference.cache
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/obj/Debug/AdapterPatternOev2.csproj.CoreCompileInputs.cache
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/obj/Debug/AdapterPatternOev2.csproj.CopyComplete
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/obj/Debug/AdapterPatternOev2.exe
+/home/dremacs/2022/adapter-pattern-oev1/AdapterPatternOev2/AdapterPatternOev2/obj/Debug/AdapterPatternOev2.pdb
